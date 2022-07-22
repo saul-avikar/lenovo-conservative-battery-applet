@@ -1,0 +1,7 @@
+{
+	"uuid": "conservative_battery@saul",
+	"name": "Conservative Battery",
+	"description": "Enable or disable conservative battery mode.",
+	"icon": "battery",
+	"max-instances": "-1"
+}
